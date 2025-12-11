@@ -5,14 +5,22 @@
 - Bottle racks no longer have weird shadows when multiple are placed
 - Bricklayers integration?
 
-~1.21_v2.0.0-dev.11~
+~1.21_v2.0.0-dev.12~
 - Chef hat + saddle makes Chef Saddle
 - Various items can be secured on an elk/boat
 - Rolling pin aligned properly onto meat rack
 - Spile fixed so it operates based on season, rather than month
 - Meat/bottle racks now indicate wood/metal type in item description
-- Oak bark can now be used as fuel - DONE!!!
-- Steel cauldron requires fresh steel chisel to destroy - DONE!!!
+- Spiles no longer float in water (check other blocks)
+
+~1.21_v2.0.0-dev.11~
+- Kitchenware trader spawn fixed and moved from game patches to mod domain folder (thanks to NiclAss himself!)
+- Oak bark can now be used as fuel 
+- Steel cauldron requires fresh steel chisel to destroy
+- Handbook guide updated
+- French translation updated (thanks to Laerinok!)
+- Handbook links fixed (thanks to Laerinok!)
+- Spanish Spain (es-es) translation added (thanks to C4BR4R4)
 
 
 ~1.21_v2.0.0-dev.10~
